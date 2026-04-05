@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/dieci-tesi-sull-arte-teatrale-di-romeo-castellucci/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+---
+
+#articolo
+https://antinomie.it/index.php/2022/12/02/dieci-tesi-sullarte-teatrale-di-romeo-castellucci/
+
+Il valore semantico di ogni segno non è dato dall’oggetto a cui si riferisce, ma da come quel segno si differenzia dagli altri segni che si sarebbero potuti usare al suo posto. Prendiamo il caso del toro che si vede in una celebre scena dello spettacolo _Moses und Aron_ del 2015. La maestosa presenza che vediamo sul palcoscenico è un “toro”? Un “animale”? Un “simbolo”? Una “allegoria”? Un’allusione all’“antropocentrismo”? Una critica dello “specismo”? Per Saussure il senso di ognuno di questi segni verbali si può determinare solo confrontandolo e differenziandolo dagli altri segni che avrebbero potuto prendere il suo posto. Non esiste il significato di un segno, esiste la differenza di significato fra i segni. La principale conseguenza di questa impostazione è che ogni segno, per essere compreso, richiede l’uso di altri segni. Ma questo non vuol dire altro che sarà necessario un nuovo e ulteriore lavorio di confronto e di differenziazione con altri segni, e così via senza più fermarsi. Alla fine rimangono solo i segni, la cosa è perduta. Succede qualcosa di simile anche per l’altra grande teoria semiotica, quella di Peirce. In questo caso un segno si riferisce alla cosa attraverso la mediazione di un’entità intermedia, il cosiddetto “interpretante”
