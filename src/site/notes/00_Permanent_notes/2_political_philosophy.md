@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-permanent-notes/2-political-philosophy/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-permanent-notes/2-political-philosophy/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
 ---
 
 [[00_Permanent_notes/2.1_Critical Now\|2.1_Critical Now]]
