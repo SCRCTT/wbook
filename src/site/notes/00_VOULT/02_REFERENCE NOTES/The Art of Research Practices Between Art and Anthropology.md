@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/the-art-of-research-practices-between-art-and-anthropology/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+---
+
+#articolo 
+# The Art of Research Practices Between Art and Anthropology
+
+La ricerca è considerata il modo consolidato per generare nuova conoscenza. Strettamente legata ai principi dell'Illuminismo, la ricerca si è radicata nel posto di forza che le scienze positive hanno occupato nel mondo occidentale. La ricerca, tradizionalmente identificata con la scienza, è servita da prototipo per le discipline umanistiche e le “scienze” sociali, mentre nel 21 ° secolo è stata adottata anche da organizzazioni e gruppi con finalità al di là degli interessi strettamente accademici.
+La ricerca è il processo dinamico attraverso il quale i dati vengono formulati e formattati, mentre allo stesso tempo vengono poste le basi e le domande che anticipano la generazione di nuove conoscenze e potenzialità future. Come ben sappiamo, però, la conoscenza è potere, e la ricerca non solo è al centro di ogni discussione di interesse epistemologico, ma ha anche un significato sociopolitico ed economico.
+In un'epoca in cui i termini di valutazione della ricerca sono legati alle applicazioni della conoscenza e alla loro capacità di generare capitale finanziario, anche la ricerca nelle scienze sociali e umanistiche tende a essere sostenuta molto più prontamente se risponde a questo obiettivo. È importante problematizzare i principi di tale valutazione, per perseguire e affermare altre ragioni che possono rendere “utile” la ricerca nelle scienze sociali e umanistiche. È anche importante prendere in considerazione altre pratiche e metodi che possono discostarsi da quelli che il calcolo dell'applicabilità commerciale delinea istituzionalmente e tradizionalmente. Insomma, la “ricerca” costituisce un dato su cui è tempo di riflettere.
+
+Mentre la ricerca è stata tradizionalmente collegata alla scienza, è l'arte – vista stereotipicamente come il suo polo opposto – che può fornire la lente migliore per aprire nuove prospettive su questo tema. Soprattutto a partire dagli anni '90, la ricerca artistica ha sempre più mutuato teorie e metodi dalle scienze umane e sociali.
