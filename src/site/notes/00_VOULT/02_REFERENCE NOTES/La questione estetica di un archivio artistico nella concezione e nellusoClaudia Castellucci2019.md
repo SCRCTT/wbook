@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/la-questione-estetica-di-un-archivio-artistico-nella-concezione-e-nelluso-claudia-castellucci2019/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/la-questione-estetica-di-un-archivio-artistico-nella-concezione-e-nelluso-claudia-castellucci2019/","dg-note-properties":{}}
 ---
 
 #saggio

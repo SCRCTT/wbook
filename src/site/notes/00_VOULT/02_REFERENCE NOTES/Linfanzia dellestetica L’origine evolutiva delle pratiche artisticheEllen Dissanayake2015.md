@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/linfanzia-dellestetica-l-origine-evolutiva-delle-pratiche-artistiche-ellen-dissanayake2015/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/linfanzia-dellestetica-l-origine-evolutiva-delle-pratiche-artistiche-ellen-dissanayake2015/","dg-note-properties":{}}
 ---
 
 #saggio

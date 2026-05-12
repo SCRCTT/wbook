@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/rivoluzione-molecolare-felix-guattari/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/rivoluzione-molecolare-felix-guattari/","dg-note-properties":{}}
 ---
 
 The term "Molecular Revolution" (the title of one of Félix Guattari's essay collections, _Molecular Revolution and Class Struggle_) represents a key concept in his radical critique.

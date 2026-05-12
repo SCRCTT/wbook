@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/practices-of-ethnographic-research-introduction-to-the-special-issue/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/practices-of-ethnographic-research-introduction-to-the-special-issue/","dg-note-properties":{}}
 ---
 
 #articolo

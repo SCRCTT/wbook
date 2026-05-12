@@ -1,5 +1,5 @@
 ---
-{"tags":null,"created":"2026-02-04","dg-publish":true,"permalink":"/00-voult/02-reference-notes/a-god-tier-larp-q-anon-as-conspiracy-fictioning-daniel-de-zeeuw-and-alex-gekker2023/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":null,"created":"2026-02-04"}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/a-god-tier-larp-q-anon-as-conspiracy-fictioning-daniel-de-zeeuw-and-alex-gekker2023/","dg-note-properties":{"tags":null,"created":"2026-02-04"}}
 ---
 
 Distillato:

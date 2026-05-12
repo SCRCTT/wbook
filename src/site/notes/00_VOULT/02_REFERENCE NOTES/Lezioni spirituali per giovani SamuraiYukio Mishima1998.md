@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/lezioni-spirituali-per-giovani-samurai-yukio-mishima1998/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/lezioni-spirituali-per-giovani-samurai-yukio-mishima1998/","dg-note-properties":{}}
 ---
 
 #saggio 

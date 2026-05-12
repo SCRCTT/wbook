@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/how-forests-think-eduardo-kohn-2021/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/how-forests-think-eduardo-kohn-2021/","dg-note-properties":{}}
 ---
 
 #essay 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/the-art-of-research-practices-between-art-and-anthropology/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/the-art-of-research-practices-between-art-and-anthropology/","dg-note-properties":{}}
 ---
 
 #articolo 

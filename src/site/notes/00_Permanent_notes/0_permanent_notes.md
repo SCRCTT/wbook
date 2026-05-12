@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/00-permanent-notes/0-permanent-notes/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-permanent-notes/0-permanent-notes/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 [[00_Permanent_notes/1_art\|1_art]]

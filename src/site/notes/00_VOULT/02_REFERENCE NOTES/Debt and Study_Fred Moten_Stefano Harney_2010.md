@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/debt-and-study-fred-moten-stefano-harney-2010/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/debt-and-study-fred-moten-stefano-harney-2010/","dg-note-properties":{}}
 ---
 
 #scientific #article

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/realismo-capitalista-mark-fisher2009/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/realismo-capitalista-mark-fisher2009/","dg-note-properties":{}}
 ---
 
 #saggio

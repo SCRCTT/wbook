@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/arte-come-esperienza-j-dewey1934/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/arte-come-esperienza-j-dewey1934/","dg-note-properties":{}}
 ---
 
 #saggio

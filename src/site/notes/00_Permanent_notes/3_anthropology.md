@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-permanent-notes/3-anthropology/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-permanent-notes/3-anthropology/","dg-note-properties":{}}
 ---
 
 [[00_Permanent_notes/3.1_The Hikikomori escapes the debt-credit dynamic\|3.1_The Hikikomori escapes the debt-credit dynamic]]

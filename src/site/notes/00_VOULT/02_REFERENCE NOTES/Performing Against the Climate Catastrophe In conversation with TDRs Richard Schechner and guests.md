@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/performing-against-the-climate-catastrophe-in-conversation-with-td-rs-richard-schechner-and-guests/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/performing-against-the-climate-catastrophe-in-conversation-with-td-rs-richard-schechner-and-guests/","dg-note-properties":{}}
 ---
 
 #articolo #conferenza

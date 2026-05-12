@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/stranieri-a-se-stessi-julia-kristeva2014/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/stranieri-a-se-stessi-julia-kristeva2014/","dg-note-properties":{}}
 ---
 
 #saggio

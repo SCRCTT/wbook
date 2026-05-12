@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/munari-method/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/munari-method/","dg-note-properties":{}}
 ---
 
 [[00_Permanent_notes/1.4b1_Bruno Munari\|1.4b1_Bruno Munari]]

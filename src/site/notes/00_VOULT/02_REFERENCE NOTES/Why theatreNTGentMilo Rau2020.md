@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/why-theatre-nt-gent-milo-rau2020/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/why-theatre-nt-gent-milo-rau2020/","dg-note-properties":{}}
 ---
 
 #saggio

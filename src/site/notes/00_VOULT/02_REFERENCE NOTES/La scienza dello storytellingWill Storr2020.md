@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/la-scienza-dello-storytelling-will-storr2020/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/la-scienza-dello-storytelling-will-storr2020/","dg-note-properties":{}}
 ---
 
 #saggio

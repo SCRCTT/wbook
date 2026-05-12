@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/dei-bambini-sono-entrati-in-una-residenza/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/dei-bambini-sono-entrati-in-una-residenza/","dg-note-properties":{}}
 ---
 
 #articolo 

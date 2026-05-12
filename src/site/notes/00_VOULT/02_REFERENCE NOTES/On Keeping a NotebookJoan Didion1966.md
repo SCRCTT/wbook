@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/on-keeping-a-notebook-joan-didion1966/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/on-keeping-a-notebook-joan-didion1966/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/arte-povera-appunti-per-una-guerriglia-germano-celant1967/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/arte-povera-appunti-per-una-guerriglia-germano-celant1967/","dg-note-properties":{}}
 ---
 
 #articolo 

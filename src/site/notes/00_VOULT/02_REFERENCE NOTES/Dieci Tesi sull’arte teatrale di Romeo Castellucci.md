@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/dieci-tesi-sull-arte-teatrale-di-romeo-castellucci/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/dieci-tesi-sull-arte-teatrale-di-romeo-castellucci/","dg-note-properties":{}}
 ---
 
 #articolo

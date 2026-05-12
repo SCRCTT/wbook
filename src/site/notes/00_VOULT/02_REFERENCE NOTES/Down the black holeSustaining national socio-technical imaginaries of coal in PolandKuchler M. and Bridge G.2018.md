@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/down-the-black-hole-sustaining-national-socio-technical-imaginaries-of-coal-in-poland-kuchler-m-and-bridge-g-2018/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/down-the-black-hole-sustaining-national-socio-technical-imaginaries-of-coal-in-poland-kuchler-m-and-bridge-g-2018/","dg-note-properties":{}}
 ---
 
 #articolo 
