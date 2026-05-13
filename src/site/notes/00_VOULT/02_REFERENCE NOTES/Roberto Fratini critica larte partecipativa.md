@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/roberto-fratini-critica-larte-partecipativa/","dg-note-properties":{"tags":null,"created":"2026-02-02"}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/roberto-fratini-critica-larte-partecipativa/","noteIcon":"","dg-note-properties":{"tags":null,"created":"2026-02-02"}}
 ---
 
 [[8.3_Il teatro partecipativo può ammortizzare il dibattito\|8.3_Il teatro partecipativo può ammortizzare il dibattito]]

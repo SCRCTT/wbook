@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/monstrous-complicities-kike-espana-and-gerald-raunig2022/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/monstrous-complicities-kike-espana-and-gerald-raunig2022/","noteIcon":"","dg-note-properties":{}}
 ---
 
 https://newalphabetschool.hkw.de/monstrous-complicities/index.html

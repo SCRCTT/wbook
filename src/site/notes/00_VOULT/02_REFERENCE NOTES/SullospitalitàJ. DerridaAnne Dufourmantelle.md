@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/sullospitalita-j-derrida-anne-dufourmantelle/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/sullospitalita-j-derrida-anne-dufourmantelle/","noteIcon":"","dg-note-properties":{}}
 ---
 
 "l'orbita insostenibile dell'intimità che sconfina nell'odio."

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/contro-la-vostra-realta-come-lestremismo-del-web-e-diventato-mainstream-angela-nagle2019/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/contro-la-vostra-realta-come-lestremismo-del-web-e-diventato-mainstream-angela-nagle2019/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ### Introduzione. Dalla Hope a Harambe

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/georges-didi-huberman-sentire-il-grisou2014/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/georges-didi-huberman-sentire-il-grisou2014/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio 

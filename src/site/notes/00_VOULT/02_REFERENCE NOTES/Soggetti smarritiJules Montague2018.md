@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/soggetti-smarriti-jules-montague2018/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/soggetti-smarriti-jules-montague2018/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio

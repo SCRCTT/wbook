@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/lamerica-jean-baudrillard1988/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/lamerica-jean-baudrillard1988/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio 

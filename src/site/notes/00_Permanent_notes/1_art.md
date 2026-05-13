@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-permanent-notes/1-art/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-permanent-notes/1-art/","noteIcon":"","dg-note-properties":{}}
 ---
 
 [[00_Permanent_notes/1.1_performing_art\|1.1_performing_art]]

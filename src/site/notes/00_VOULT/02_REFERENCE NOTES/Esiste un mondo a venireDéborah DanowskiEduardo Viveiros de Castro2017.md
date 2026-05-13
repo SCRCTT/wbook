@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/esiste-un-mondo-a-venire-deborah-danowski-eduardo-viveiros-de-castro2017/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/esiste-un-mondo-a-venire-deborah-danowski-eduardo-viveiros-de-castro2017/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio

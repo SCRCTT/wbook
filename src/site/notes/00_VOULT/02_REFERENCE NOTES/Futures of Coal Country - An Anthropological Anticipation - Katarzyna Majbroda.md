@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/futures-of-coal-country-an-anthropological-anticipation-katarzyna-majbroda/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/futures-of-coal-country-an-anthropological-anticipation-katarzyna-majbroda/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #articolo #scientifico 

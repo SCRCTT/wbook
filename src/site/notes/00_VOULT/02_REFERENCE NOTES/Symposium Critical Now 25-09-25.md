@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/symposium-critical-now-25-09-25/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/symposium-critical-now-25-09-25/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Critical Now: Notes on Urgency and Performance

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/dead-as-a-dodo-s-ray2023/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/dead-as-a-dodo-s-ray2023/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #articolo

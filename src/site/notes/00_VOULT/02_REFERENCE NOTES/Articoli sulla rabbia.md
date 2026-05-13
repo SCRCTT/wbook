@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/articoli-sulla-rabbia/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/articoli-sulla-rabbia/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #articolo

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/iperoggetti-timothy-morton2018/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/iperoggetti-timothy-morton2018/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/larte-del-non-dominio-nell-era-dello-sfaldamento-globale/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/larte-del-non-dominio-nell-era-dello-sfaldamento-globale/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio

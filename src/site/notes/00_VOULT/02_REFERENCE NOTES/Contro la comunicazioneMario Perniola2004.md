@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/contro-la-comunicazione-mario-perniola2004/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/contro-la-comunicazione-mario-perniola2004/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/storie-del-mal-di-luna-simonluca-renda2019/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/storie-del-mal-di-luna-simonluca-renda2019/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio 

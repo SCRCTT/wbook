@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/a-system-for-writing-how-an-unconventional-approach-to-note-making-bob-doto2024/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/a-system-for-writing-how-an-unconventional-approach-to-note-making-bob-doto2024/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

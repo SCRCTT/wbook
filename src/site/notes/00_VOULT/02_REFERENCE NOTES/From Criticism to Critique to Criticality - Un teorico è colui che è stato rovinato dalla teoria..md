@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/from-criticism-to-critique-to-criticality-un-teorico-e-colui-che-e-stato-rovinato-dalla-teoria/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/from-criticism-to-critique-to-criticality-un-teorico-e-colui-che-e-stato-rovinato-dalla-teoria/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

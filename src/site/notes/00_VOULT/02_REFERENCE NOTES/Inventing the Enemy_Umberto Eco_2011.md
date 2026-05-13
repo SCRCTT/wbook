@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/inventing-the-enemy-umberto-eco-2011/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/inventing-the-enemy-umberto-eco-2011/","noteIcon":"","dg-note-properties":{}}
 ---
 
 How is it possible for there to be a people that has no enemies? 13/10/25 11:47

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/diventa-performance-art/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/diventa-performance-art/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #articolo

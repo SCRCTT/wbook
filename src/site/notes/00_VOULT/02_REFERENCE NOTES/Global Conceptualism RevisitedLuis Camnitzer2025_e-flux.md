@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/global-conceptualism-revisited-luis-camnitzer2025-e-flux/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/global-conceptualism-revisited-luis-camnitzer2025-e-flux/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #articolo

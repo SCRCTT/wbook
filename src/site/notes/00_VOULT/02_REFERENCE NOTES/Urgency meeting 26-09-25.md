@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/urgency-meeting-26-09-25/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/urgency-meeting-26-09-25/","noteIcon":"","dg-note-properties":{}}
 ---
 
 Our urgency with our works is to create bridge with something is disappearing and hide.

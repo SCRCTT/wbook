@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/archeofuturismo-guillaume-faye2020/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/archeofuturismo-guillaume-faye2020/","noteIcon":"","dg-note-properties":{}}
 ---
 
 **Componenti dell'Archeofuturismo:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/atti-della-disputa-sulla-natura-del-teatro-giuseppe-bartolucci-romeo-castellucci-rubina-giorgi-raimondo-guarino-renata-molinari-e-mario-perniola-edizioni-casa-del-bello-estremo-cesena-1990/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/atti-della-disputa-sulla-natura-del-teatro-giuseppe-bartolucci-romeo-castellucci-rubina-giorgi-raimondo-guarino-renata-molinari-e-mario-perniola-edizioni-casa-del-bello-estremo-cesena-1990/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #essay

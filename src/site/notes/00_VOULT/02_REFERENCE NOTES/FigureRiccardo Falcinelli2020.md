@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/figure-riccardo-falcinelli2020/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/figure-riccardo-falcinelli2020/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

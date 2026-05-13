@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/bifo-ikikomori-of-the-world-unite/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/bifo-ikikomori-of-the-world-unite/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #article #conference 

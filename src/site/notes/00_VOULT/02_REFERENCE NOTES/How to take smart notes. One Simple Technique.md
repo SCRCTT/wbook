@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/how-to-take-smart-notes-one-simple-technique/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/how-to-take-smart-notes-one-simple-technique/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio 

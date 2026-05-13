@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/etnografo-come-artista-francesco-marano2013/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-voult/02-reference-notes/etnografo-come-artista-francesco-marano2013/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #saggio 
